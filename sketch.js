@@ -5,7 +5,7 @@ var fedTime,lastFed,currentTime;
 var feed,addFood;
 //Declaring object for food class
 var foodObj;
-
+//hi
 var gameState,readState;
 
 function preload(){
